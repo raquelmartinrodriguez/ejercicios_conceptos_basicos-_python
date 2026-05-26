@@ -26,12 +26,15 @@ ejercicios-python/
 ├── ejercicio2.py
 ├── ejercicio3.py
 └── README.md
+---
 
-🚀 Tecnologías utilizadas
+## 🚀 Tecnologías utilizadas
 Python 3
 Visual Studio Code
 Git & GitHub
-▶️ Cómo ejecutar los ejercicios
+---
+
+## ▶️ Cómo ejecutar los ejercicios
 
 Clonar el repositorio:
 
@@ -44,10 +47,13 @@ cd TU-REPOSITORIO
 Ejecutar un archivo Python:
 
 python ejercicio1.py
-👨‍💻 Autor
+---
+
+## 👨‍💻 Autor
 
 Raquel Martin Rodriguez
+---
 
-📌 Notas
+## 📌 Notas
 
 Este repositorio forma parte de prácticas y ejercicios de aprendizaje en Python.
